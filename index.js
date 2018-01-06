@@ -19,4 +19,7 @@ while (i<facts.length){
 return factArray
 }
 
-function iLoveTheBeatles ()
+function iLoveTheBeatles (number){
+  var empty = []
+  do {while()
+}
