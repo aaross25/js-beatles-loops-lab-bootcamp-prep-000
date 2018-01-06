@@ -9,11 +9,3 @@ function theBeatlesPlay (musicians, instruments){
   return empty
 }
 
-function johnLennonFacts (facts){
-  let i = 0;
-  var factArray = []
-while (i<facts.length){
-  factArray.push(facts[i])
-}
-return factArray
-}
