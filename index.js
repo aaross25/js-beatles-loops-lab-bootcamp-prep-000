@@ -21,9 +21,7 @@ return factArray
 
 function iLoveTheBeatles (number){
   var empty = []
-  do { empty.push("I love the Beatles!")
-        number++
+  do {  number++
+        empty.push("I love the Beatles!")
     } while(number<15)
 }
-
-function
