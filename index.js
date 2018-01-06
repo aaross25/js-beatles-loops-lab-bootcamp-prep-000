@@ -18,3 +18,5 @@ while (i<facts.length){
 }
 return factArray
 }
+
+function iLoveTheBeatles ()
